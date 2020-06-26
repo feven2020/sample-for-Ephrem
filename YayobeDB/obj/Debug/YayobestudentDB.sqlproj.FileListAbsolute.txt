@@ -1,0 +1,7 @@
+C:\Users\FEVEN\Desktop\Yayobestudent\Yayobe DB to Form\YayobeDB\bin\Debug\YayobestudentDB.dacpac
+C:\Users\FEVEN\Desktop\Yayobestudent\Yayobe DB to Form\YayobeDB\obj\Debug\Model.xml
+C:\Users\FEVEN\Desktop\Yayobestudent\Yayobe DB to Form\YayobeDB\obj\Debug\refactor.xml
+C:\Users\FEVEN\Desktop\Yayobestudent\Yayobe DB to Form\YayobeDB\obj\Debug\postdeploy.sql
+C:\Users\FEVEN\Desktop\Yayobestudent\Yayobe DB to Form\YayobeDB\obj\Debug\predeploy.sql
+C:\Users\FEVEN\Desktop\Yayobestudent\Yayobe DB to Form\YayobeDB\obj\Debug\YayobeDB.dll
+C:\Users\FEVEN\Desktop\Yayobestudent\Yayobe DB to Form\YayobeDB\obj\Debug\YayobeDB.pdb
